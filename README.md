@@ -11,3 +11,8 @@ To run just type and put http://localhost:3000 on your web browser and you shoul
 ```bash
 npm start
 ```
+If you want to use ejs files just install the ejs package
+
+```bash
+npm i ejs
+```
